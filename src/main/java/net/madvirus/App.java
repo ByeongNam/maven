@@ -10,6 +10,5 @@ public class App
         int c;
         c=a+b;
         System.out.println("c is"+c);
-        System.out.println("c is"+c);
     }
 }
