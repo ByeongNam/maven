@@ -8,7 +8,8 @@ public class App
         int a=10;
         int b=15;
         int c;
-        c=a+b;
+        c=a+b+a;
         System.out.println("c is"+c);
+        
     }
 }
